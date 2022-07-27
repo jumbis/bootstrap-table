@@ -35,7 +35,7 @@ $.fn.bootstrapTable.locales['it-IT'] = $.fn.bootstrapTable.locales['it'] = {
     return 'pagina successiva'
   },
   formatDetailPagination (totalRows) {
-    return `Mostrando ${totalRows} elementi`
+    return `Visualizzzazione di ${totalRows} elementi`
   },
   formatClearSearch () {
     return 'Pulisci filtri'
