@@ -7,10 +7,10 @@
 
 $.fn.bootstrapTable.locales['it-IT'] = $.fn.bootstrapTable.locales['it'] = {
   formatCopyRows () {
-    return 'Copy Rows'
+    return 'Copia Righe'
   },
   formatPrint () {
-    return 'Print'
+    return 'Stampa'
   },
   formatLoadingMessage () {
     return 'Caricamento in corso'
@@ -35,7 +35,7 @@ $.fn.bootstrapTable.locales['it-IT'] = $.fn.bootstrapTable.locales['it'] = {
     return 'pagina successiva'
   },
   formatDetailPagination (totalRows) {
-    return `Mostrando ${totalRows} elementi`
+    return `Visualizzazione di ${totalRows} elementi`
   },
   formatClearSearch () {
     return 'Pulisci filtri'
@@ -92,13 +92,13 @@ $.fn.bootstrapTable.locales['it-IT'] = $.fn.bootstrapTable.locales['it'] = {
     return 'Chiudi'
   },
   formatFilterControlSwitch () {
-    return 'Hide/Show controls'
+    return 'Mostra/Nascondi controlli'
   },
   formatFilterControlSwitchHide () {
-    return 'Hide controls'
+    return 'Nascondi controlli'
   },
   formatFilterControlSwitchShow () {
-    return 'Show controls'
+    return 'Mostra controlli'
   }
 }
 
